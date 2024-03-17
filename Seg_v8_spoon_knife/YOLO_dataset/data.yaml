@@ -1,0 +1,7 @@
+names:
+- knife
+- spoon
+nc: 2
+test: /****/YOLO_dataset/validation/images
+train: /****/YOLO_dataset/train/images
+val: /****/YOLO_dataset/validation/images
