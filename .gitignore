@@ -15,6 +15,10 @@ pip-selfcheck.json
 ### My points
 *.jpeg
 .idea
+!/Seg_v8_spoon_knife/dataset_coco/images/IMG_7908.jpeg
+!/Seg_v8_spoon_knife/YOLO_dataset/train/images/IMG_7908.jpeg
+!/Seg_v8_spoon_knife/YOLO_dataset/validation/images/IMG_7915.jpeg
+
 
 ### Eclipse template
 .metadata
@@ -226,4 +230,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
